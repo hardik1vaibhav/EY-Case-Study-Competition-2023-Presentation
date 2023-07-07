@@ -24,3 +24,5 @@ The corporate treasury function of a company is responsible for managing the org
 4. [march-to-change](https://flow.db.com/cash-management/march-to-change)
 5. [rils-treasury-on-its-toes-to-boost-other-income](https://www.business-standard.com/article/companies/rils-treasury-on-its-toes-to-boost-other-income-114022801097_1.html)
 6. [the-future-of-treasury-operations-how-chatgpt-could-transform-the-treasury-industry](https://treasuryrecruitment.com/the-future-of-treasury-operations-how-chatgpt-could-transform-the-treasury-industry/)
+<img width="658" alt="image" src="https://github.com/hardik1vaibhav/EY-Case-Study-Competition-2023-Presentation/assets/120391260/bc15d60f-8e25-4ae1-aca1-549537d4ac90">
+
