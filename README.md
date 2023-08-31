@@ -1,5 +1,4 @@
 # EY-CASE-STUDY-CHALLENGE
-![alt text](https://th.bing.com/th/id/R.28a7dd0da5f29afa239b689dd9dc6c3b?rik=VPz2bQEtYpvmEg&riu=http%3a%2f%2fmarqresearch.com%2fwp-content%2fuploads%2f2016%2f08%2fey-1.jpg&ehk=fyee9BH%2b5PozrWNjXFYgOdUfXlRczmOnl2T4Rb%2f92R8%3d&risl=&pid=ImgRaw&r=0)
 A case study representing the use case of AI/ML/RPA in the field of treasury with proof of concept using sample data 
 # Case Study: Transforming the technology landscape for ABC’s Treasury Functions 
 ## Case Study Questions:
@@ -26,4 +25,6 @@ The corporate treasury function of a company is responsible for managing the org
 5. [rils-treasury-on-its-toes-to-boost-other-income](https://www.business-standard.com/article/companies/rils-treasury-on-its-toes-to-boost-other-income-114022801097_1.html)
 6. [the-future-of-treasury-operations-how-chatgpt-could-transform-the-treasury-industry](https://treasuryrecruitment.com/the-future-of-treasury-operations-how-chatgpt-could-transform-the-treasury-industry/)
 <img width="658" alt="image" src="https://github.com/hardik1vaibhav/EY-Case-Study-Competition-2023-Presentation/assets/120391260/bc15d60f-8e25-4ae1-aca1-549537d4ac90">
+
+![alt text](https://th.bing.com/th/id/R.28a7dd0da5f29afa239b689dd9dc6c3b?rik=VPz2bQEtYpvmEg&riu=http%3a%2f%2fmarqresearch.com%2fwp-content%2fuploads%2f2016%2f08%2fey-1.jpg&ehk=fyee9BH%2b5PozrWNjXFYgOdUfXlRczmOnl2T4Rb%2f92R8%3d&risl=&pid=ImgRaw&r=0)
 
